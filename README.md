@@ -46,7 +46,7 @@ Available on Codester:
 
 ### Seller Profile
 
-![Profile](screenshots/seller-profile.png)
+![Profile](screenshots/seller-profile(public).png)
 
 ### Mobile Version
 
