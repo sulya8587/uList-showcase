@@ -16,6 +16,16 @@ Built with Django 5 and Bootstrap 5, UList allows users to create listings, comm
 
 ---
 
+## 📦 Purchase
+
+Interested in using UList for your project?
+
+Available on Codester:
+
+**Purchase Link:** [https://www.codester.com/items/62416/django-marketplace-classified-ads-platform?ref=Sulya]
+
+---
+
 ## 📸 Screenshots
 
 ### Homepage
@@ -128,16 +138,6 @@ Built with Django 5 and Bootstrap 5, UList allows users to create listings, comm
 ✔ Easy customization
 
 ✔ Production-ready architecture
-
----
-
-## 📦 Purchase
-
-Interested in using UList for your project?
-
-Available on Codester:
-
-**Purchase Link:** [https://www.codester.com/items/62416/django-marketplace-classified-ads-platform?ref=Sulya]
 
 ---
 
