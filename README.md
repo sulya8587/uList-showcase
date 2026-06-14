@@ -38,7 +38,7 @@ Available on Codester:
 
 ### Listing Details
 
-![Listing](screenshots/listing-detail.png)
+![Listing](screenshots/listing_detail.png)
 
 ### Private Messaging
 
